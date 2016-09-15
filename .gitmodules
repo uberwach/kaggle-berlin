@@ -1,0 +1,3 @@
+[submodule "tutorials/titanic"]
+	path = tutorials/titanic
+	url = https://github.com/uberwach/titanic
