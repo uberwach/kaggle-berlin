@@ -9,7 +9,11 @@ Star ratings are from :star: to :star::star::star::star::star: and subject of di
 
 ## Tutorials
 
-**[0]** Nicolas P. Rougier, Python & Numpy [[link]](http://www.labri.fr/perso/nrougier/from-python-to-numpy/) **(Outstanding Numpy introduction for scientists and optimizers) :star::star::star::star::star:
+**[0]** Nicolas P. Rougier, Python & Numpy [[link]](http://www.labri.fr/perso/nrougier/from-python-to-numpy/) **(Outstanding Numpy introduction for scientists and optimizers)** :star::star::star::star::star:
+
+**[1]** Sebastian Ruder, gradient descent methods [[link]](http://sebastianruder.com/optimizing-gradient-descent/) **(If you are wondering what it is all about stochastic gradient descent, Nesterov momentum, Adam, ...)** :star::star::star:
+
+**[2]** Scikit-learn documentation [[link]](http://scikit-learn.org/stable/documentation.html) **(Absolutely great read, to learn about topics. Tons of superb example code. When I am bored I spend time here!)** :star::star::star::star::star:
 
 ## Toying and Fun
 
