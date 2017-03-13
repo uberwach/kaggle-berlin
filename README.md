@@ -7,7 +7,21 @@ Here a small, but growing, collection of sources that we have been discussing on
 
 Star ratings are from :star: to :star::star::star::star::star: and subject of discussions in the Kaggle group.
 
+## Tutorials
+
+**[0]** Nicolas P. Rougier, Python & Numpy [[link]](http://www.labri.fr/perso/nrougier/from-python-to-numpy/) **(Outstanding Numpy introduction for scientists and optimizers) :star::star::star::star::star:
+
+## Toying and Fun
+
+
+**[0]** Andrew Karpathy: CNNs in the browser [[link]](http://cs.stanford.edu/people/karpathy/convnetjs/) **(Great to gain some intuition.)** :star::star::star:
+
+**[1]** Loss Function tumblr [[link]](https://lossfunctions.tumblr.com) **(If you do not suffer from PTSD from neural network training already ;))** :star::star::star::star:
+
+**[2]** Tensorflow in the browser [[link]](https://playground.tensorflow.org) **(Start with this when you learn about NNs!)** :star::star::star::star:
+
 ## Practical Tips
+
 
 **[0]** Aarshay Jain: Complete Guide to Parameter Tuning in XGBoost (with codes in Python) [[link]](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/) **(XGBoost won many Kaggle competitions and is from the gradient boosted tree-based model family.)**
 
