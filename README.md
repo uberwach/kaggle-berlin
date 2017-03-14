@@ -27,6 +27,8 @@ Star ratings are from :star: to :star::star::star::star::star: and subject of di
 
 **[3]** Narayanan, Arvind; Shmatikov, Vitaly: Robust De-anonymization of Large Sparse Datasests [[paper]](https://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf) **(Ridiculous example of de-anonymization - this should make you very afraid! Anonymous identities in the Netflix challenge data set are discovered via public available data on IMDB.)**
 
+**[4]** IBM personality insights [[link]](https://personality-insights-livedemo.mybluemix.net) **(Maps text to big five personality traits with Twitter or free text input. Supports English, Spanish, Arabic, and Japanese.) :star::star::star::star:
+
 ## Practical Tips
 
 
@@ -34,9 +36,10 @@ Star ratings are from :star: to :star::star::star::star::star: and subject of di
 
 **[1]** HJ van Veen: Feature Engineering [[slideshare]](https://www.slideshare.net/HJvanVeen/feature-engineering-72376750) **(Read this to understand basics of preprocessing and feature engineering!)** :star::star::star::star:
 
-**[2]** $\hat y$: Kaggle Ensembling Guide [[link]](http://mlwave.com/kaggle-ensembling-guide/) **(You must learn on how to combine several submission files and stack several models together if you want to score highly in contests.)** :star::star::star:star:
+**[2]** $\hat y$: Kaggle Ensembling Guide [[link]](http://mlwave.com/kaggle-ensembling-guide/) **(You must learn on how to combine several submission files and stack several models together if you want to score highly in contests.)** :star::star::star::star:
 
 **[3]** Megan Risdal: Communicating Data Science [[kaggle blog]](http://blog.kaggle.com/tag/communicating-data-science/) **(Communication of your results is one of the major skills you have to learn - and you can exercise it in our group! It is a good summary of communication, presentation, and visualization.) :star::star::star:
+
 ## Books
 
 **[0]** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An MIT Press book. (2015). [[pdf]](https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf) **(Good theory book to get started, modern! Then go to papers.)** :star::star::star::star:
