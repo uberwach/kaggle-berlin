@@ -13,8 +13,9 @@ Star ratings are from :star: to :star::star::star::star::star: and subject of di
 
 **[1]** Sebastian Ruder, gradient descent methods [[link]](http://sebastianruder.com/optimizing-gradient-descent/) **(If you are wondering what it is all about stochastic gradient descent, Nesterov momentum, Adam, ...)** :star::star::star:
 
-**[2]** Scikit-learn documentation [[link]](http://scikit-learn.org/stable/documentation.html) **(Absolutely great read, to learn about topics. Tons of superb example code. When I am bored I spend time here!)** :star::star::star::star::star:
+**[2]** Scikit-learn documentation [[link]](http://scikit-learn.org/stable/documentation.html) **(Absolutely great read to start learning about specific topics. Tons of superb example code. When I am bored I spend time here!)** :star::star::star::star::star:
 
+**[3]** Donne Martin, "**Data Science iPython notebooks.**" [[Github repository]](https://github.com/donnemartin/data-science-ipython-notebooks) **(Some useful examples to learn from.)** :star::star:
 ## Toying and Fun
 
 
@@ -36,3 +37,5 @@ Star ratings are from :star: to :star::star::star::star::star: and subject of di
 **[0]** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An MIT Press book. (2015). [[pdf]](https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf) **(Good theory book to get started, modern! Then go to papers.)** :star::star::star::star:
 
 **[1]** Murphy, Kevin. "**Machine Learning**" An MIT Press book. (2012) [[link]](https://mitpress.mit.edu/books/machine-learning-0) **(Not a good starter book, comprehensive and mathematics heavy. I use this a reference manual)** :star::star::star:
+
+**[2]** Bishop, Christopher. "**Pattern Recognition and Machine Learning**" Springer. (2008) [[link]](http://www.springer.com/de/book/9780387310732) **(Written like a typical CS book, a bit outdated but solid introduction.)** :star::star::star:
