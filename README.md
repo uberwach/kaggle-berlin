@@ -40,6 +40,8 @@ Star ratings are from :star: to :star::star::star::star::star: and subject of di
 
 **[3]** Megan Risdal: Communicating Data Science [[kaggle blog]](http://blog.kaggle.com/tag/communicating-data-science/) **(Communication of your results is one of the major skills you have to learn - and you can exercise it in our group! It is a good summary of communication, presentation, and visualization.)** :star::star::star:
 
+**[4]** Tim Dettmers: Which GPU(s) to Get for Deep Learning. [[article]](http://timdettmers.com/2017/03/19/which-gpu-for-deep-learning/) **(Excellent guide on how to build your GPU machine, what to look for, and why cloud is too expensive)** :star::star::star::star:
+
 ## Books
 
 **[0]** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An MIT Press book. (2015). [[pdf]](https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf) **(Good theory book to get started, modern! Then go to papers.)** :star::star::star::star:
