@@ -3,7 +3,9 @@ Material of the Kaggle Berlin meetup group!
 
 # Collection of Sources
 
-Here a small, but growing, collection of sources that we have been discussing on our hack sessions.
+If you want a comprehensive introduction to the field you find decent advice [[here]](https://80000hours.org/ai-safety-syllabus/#reading-list). Note that this is a guide for AI safety yet the areas outlined with books and sources is fairly decent.
+
+Here is a small, but growing, collection of sources that we have been discussing on our hack sessions.
 
 Star ratings are from :star: to :star::star::star::star::star: and subject of discussions in the Kaggle group.
 
