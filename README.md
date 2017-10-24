@@ -18,7 +18,8 @@ Star ratings are from :star: to :star::star::star::star::star: and subject of di
 **[2]** Scikit-learn documentation [[link]](http://scikit-learn.org/stable/documentation.html) **(Absolutely great read to start learning about specific topics. Tons of superb example code. When I am bored I spend time here!)** :star::star::star::star::star:
 
 **[3]** Donne Martin, "**Data Science iPython notebooks.**" [[Github repository]](https://github.com/donnemartin/data-science-ipython-notebooks) **(Some useful examples to learn from.)** :star::star:
-## Toying and Fun
+
+## Toying and Fun (but still learning)
 
 
 **[0]** Andrew Karpathy: CNNs in the browser [[link]](http://cs.stanford.edu/people/karpathy/convnetjs/) **(Great to gain some intuition.)** :star::star::star:
@@ -30,6 +31,9 @@ Star ratings are from :star: to :star::star::star::star::star: and subject of di
 **[3]** Narayanan, Arvind; Shmatikov, Vitaly: Robust De-anonymization of Large Sparse Datasests [[paper]](https://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf) **(Ridiculous example of de-anonymization - this should make you very afraid! Anonymous identities in the Netflix challenge data set are discovered via public available data on IMDB.)**
 
 **[4]** IBM personality insights [[link]](https://personality-insights-livedemo.mybluemix.net) **(Maps text to big five personality traits with Twitter or free text input. Supports English, Spanish, Arabic, and Japanese.)** :star::star::star::star:
+
+**[5]** Visualizing the DBScan algorithm [[link]](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/) **(Underrated clustering algorithm, only K-means and DBScan are useful bread-and-butter clustering algorithms.)** :star::star::star::star:
+
 
 ## Practical Tips
 
